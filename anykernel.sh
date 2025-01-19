@@ -8,8 +8,8 @@ do.modules=1
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=bangkk
-supported.versions=14.0
+device.name1=pstar
+supported.versions=14.0-15.0
 supported.patchlevels=
 '; }
 
