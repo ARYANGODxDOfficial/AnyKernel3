@@ -8,9 +8,9 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=ginkgo
-device.name2=willow
-supported.versions=11.0-15.0
+device.name1=hanoip
+device.name2=
+supported.versions=14.0-15.0
 supported.patchlevels=
 '; }
 
