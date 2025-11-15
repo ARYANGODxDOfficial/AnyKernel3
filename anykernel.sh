@@ -2,7 +2,7 @@
 # osm0sis @ xda-developers
 
 properties() { '
-kernel.string=MoeKernel by @whyakari
+kernel.string=ASTRA_Kernel by @ARYANxUvaers
 do.devicecheck=1
 do.modules=1
 do.systemless=0
